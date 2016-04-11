@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+I am learning C++，I want to get good master of it.
